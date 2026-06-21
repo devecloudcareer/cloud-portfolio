@@ -23,7 +23,7 @@ I believe in hands-on learning and continuously build projects to strengthen my 
 * DevOps Fundamentals
 * Technical Documentation
 
-## Current Learning Focus
+## Core Competencies
 
 * AWS Cloud Architecture
 * Terraform Automation
@@ -43,9 +43,7 @@ This repository showcases my cloud, DevOps, Linux, and automation projects as I 
 3. Docker Projects
 4. Kubernetes Labs
 
-## Certifications
-
 ## Contact
 
-+27658456336
-devecloudcareer@gmail.com
+Phone: +27658456336
+E-mail: devecloudcareer@gmail.com
